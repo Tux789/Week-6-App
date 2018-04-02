@@ -1,0 +1,18 @@
+#buttonDiv{
+	margin-bottom: 10px;
+}
+.topicButton{
+margin: 5px;
+}
+.myButton{
+	background-color: #4c9eb9;
+	color: white;
+}
+.favGifsButton{
+	background-color: gold;
+	padding: -1px;
+	border: 1px solid darkgrey;
+}
+.favorited{
+	color: gold;
+}
